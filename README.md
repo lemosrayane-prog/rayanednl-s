@@ -31,11 +31,6 @@ O site contém um feed de posts com:
 2. Abra o arquivo `index.html` no navegador
 3. Clique nos ❤️ para testar os likes!
 
-## Link do projeto
-
-[Ver projeto online](https://seu-link-aqui.vercel.app)  
-*(substitua depois de subir no Vercel)*
-
 ---
 
-Feito com ❤️ por Rayane Ribeiro
+Feito com ❤️ por Rayane
